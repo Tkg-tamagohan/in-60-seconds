@@ -8,9 +8,9 @@
 theme            : template
 
 theme-background : [ "#FFF" ]
-theme-headline   : [ "HGP創英角ﾎﾟｯﾌﾟ体", "#5289F7", "none" ]
-theme-byline     : [ "HGP創英角ﾎﾟｯﾌﾟ体", "#111111", "none" ]
-theme-text       : [ "HGP創英角ﾎﾟｯﾌﾟ体", "#1C1C1C", "none" ]
+theme-headline   : [ "Open Sans", "#5289F7", "none" ]
+theme-byline     : [ "Open Sans", "#111111", "none" ]
+theme-text       : [ "Open Sans", "#1C1C1C", "none" ]
 theme-links      : [ "#5289F7", "#5254F7" ]
 theme-code       : [ "Source Code Pro" ]
 theme-controls   : [ "#484848" ]
