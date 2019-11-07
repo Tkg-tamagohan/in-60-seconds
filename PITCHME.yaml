@@ -9,8 +9,8 @@ theme : template
 
 theme-background : [ "#FFF" ]
 theme-headline   : [ "sans-serif", "#5289F7", "none" ]
-theme-byline     : [ "Raleway", "#111111", "none" ]
-theme-text       : [ "Ubuntu", "#1C1C1C", "none" ]
+theme-byline     : [ "sans-serif", "#111111", "none" ]
+theme-text       : [ "sans-serif", "#1C1C1C", "none" ]
 theme-links      : [ "#5289F7", "#5254F7" ]
 theme-code       : [ "Source Code Pro" ]
 theme-controls   : [ "#484848" ]
