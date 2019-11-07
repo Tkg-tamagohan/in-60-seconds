@@ -8,9 +8,9 @@
 theme            : template
 
 theme-background : [ "#FFF" ]
-theme-headline   : [ "Open Sans", "#5289F7", "none" ]
-theme-byline     : [ "Open Sans", "#111111", "none" ]
-theme-text       : [ "Open Sans", "#1C1C1C", "none" ]
+theme-headline   : [ "Oswald", "#5289F7", "none" ]
+theme-byline     : [ "Oswald", "#111111", "none" ]
+theme-text       : [ "Oswald", "#1C1C1C", "none" ]
 theme-links      : [ "#5289F7", "#5254F7" ]
 theme-code       : [ "Source Code Pro" ]
 theme-controls   : [ "#484848" ]
